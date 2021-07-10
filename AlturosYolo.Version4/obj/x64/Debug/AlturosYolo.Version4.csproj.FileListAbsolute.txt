@@ -1,0 +1,79 @@
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\cudnn64_7.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\opencv_world411.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_cpu.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_gpu.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadVC2.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadGC2.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\msvcr100.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe.config
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.pdb
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Alturos.Yolo.dll
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Form1.resources
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Properties.Resources.resources
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.GenerateResource.cache
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CoreCompileInputs.cache
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CopyComplete
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.exe
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.pdb
+C:\Users\datbt\Desktop\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Aimp.ico
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Aimp.ico
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\cudnn64_7.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\opencv_world411.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_cpu.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_gpu.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadVC2.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadGC2.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\msvcr100.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe.config
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.pdb
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Alturos.Yolo.dll
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Form1.resources
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Properties.Resources.resources
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.GenerateResource.cache
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CoreCompileInputs.cache
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CopyComplete
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.exe
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.pdb
+H:\DATN\Tham khao\Mỳ AI\hoc train yolo\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csprojAssemblyReference.cache
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Aimp.ico
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\cudnn64_7.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\opencv_world411.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_cpu.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_gpu.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadVC2.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadGC2.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\msvcr100.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe.config
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.pdb
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Alturos.Yolo.dll
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csprojAssemblyReference.cache
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Form1.resources
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Properties.Resources.resources
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.GenerateResource.cache
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CoreCompileInputs.cache
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CopyComplete
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.exe
+H:\DATN\Nháp\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.pdb
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Aimp.ico
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\cudnn64_7.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\opencv_world411.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_cpu.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\yolo_cpp_dll_gpu.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadVC2.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\pthreadGC2.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\msvcr100.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe.config
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.exe
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\AlturosYolo.Version4.pdb
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\bin\x64\Debug\Alturos.Yolo.dll
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.AssemblyReference.cache
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Form1.resources
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.Properties.Resources.resources
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.GenerateResource.cache
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CoreCompileInputs.cache
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.csproj.CopyComplete
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.exe
+H:\DATN\nhap\AlturosYolo.Version4\AlturosYolo.Version4\obj\x64\Debug\AlturosYolo.Version4.pdb
